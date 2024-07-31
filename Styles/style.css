@@ -34,6 +34,8 @@ header{
     padding: 12px 20px 12px 20px;
     border-radius: 5px;
 }
-.youtube{
-    ;
+.container{
+    display: flex;
+    gap: 24px;
+    padding: 40px 40px;
 }
