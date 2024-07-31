@@ -38,4 +38,20 @@ header{
     display: flex;
     gap: 24px;
     padding: 40px 40px;
+    justify-content: center;
+}
+.shadow1{
+    padding: 24px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: rgba(255, 76, 30, 0.05);
+}
+.shadow2{
+    padding: 24px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: rgba(0, 76, 232, 0.05);
+}
+.shadow3{
+    padding: 24px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: rgba(255, 223, 0, 0.05);
 }
