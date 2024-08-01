@@ -10,48 +10,90 @@ nav {
     display: flex;
     justify-content: space-around;
 }
-header{
+
+header {
     background-image: url('../image/assets/Hero-bg.png');
-    background-repeat: no-repeat;
 }
-.btn{
+
+.btn {
     background-color: black;
     color: white;
     margin: auto;
-    padding: 10px 10px 10px 10px ;
+    padding: 10px 10px 10px 10px;
     border-radius: 5px;
 }
-.center{
+
+.center {
     text-align: center;
 }
-.resume{
+
+.resume {
     border-style: groove;
     padding: 17px 24px;
     border-radius: 5px;
 }
-.learn{
+
+.learn {
     border-style: groove;
     padding: 12px 20px 12px 20px;
     border-radius: 5px;
 }
-.container{
+
+.container {
     display: flex;
     gap: 24px;
     padding: 40px 40px;
     justify-content: center;
 }
-.shadow1{
+
+.shadow1 {
     padding: 24px;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     background-color: rgba(255, 76, 30, 0.05);
+    border-radius: 5px;
 }
-.shadow2{
+
+.shadow2 {
     padding: 24px;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     background-color: rgba(0, 76, 232, 0.05);
+    border-radius: 5px;
 }
-.shadow3{
+
+.shadow3 {
     padding: 24px;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     background-color: rgba(255, 223, 0, 0.05);
+    border-radius: 5px;
+}
+
+main {
+    margin: 74px 150px 90px 74px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: rgba(13, 19, 33, 0.02);
+    padding: 80px 97px 80px 97px;
+    border-radius: 5px;
+}
+.asdf{
+    margin-bottom: 32px;
+    justify-content:space-around;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.fgfgf{
+    justify-content:space-around;
+    margin-bottom: 32px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.dfdfd{
+    justify-content: space-around;
+    margin-bottom: 32px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.youtube{
+    padding: 90px 150px 151px 400px;
+    width: 100%;
+    height: 100%;
+}
+.jhhfg{
+    justify-content:space-around;
 }
